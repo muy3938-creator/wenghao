@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Hao Weng"
+title: "About Me"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
 
 A master's student in the School of Computer Science, Shanghai Jiao Tong University.
 
