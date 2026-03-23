@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Wenghao"
   pronouns         : # example: "she/her"  
-  bio              : "Shanghai Jiao Tong University | Research on MLLM acceleration and RL for LLMs"
+  bio              : "A master's student in the School of Computer Science, Shanghai Jiao Tong University. Research on MLLM acceleration and RL for LLMs."
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : "School of Computer Science, Shanghai Jiao Tong University"
   uri              : # URL
-  email            : 
+  email            : "muyugo11@sjtu.edu.cn"
 
   # Academic websites
   academia         : # URL

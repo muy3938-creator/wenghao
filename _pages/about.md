@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Wenghao** from **Shanghai Jiao Tong University**.
+I am **Wenghao**, a master's student at the **School of Computer Science, Shanghai Jiao Tong University**.
 
 My research interests focus on:
 
