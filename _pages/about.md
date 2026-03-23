@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am **Wenghao**, a master's student at the **School of Computer Science, Shanghai Jiao Tong University**.
+## About Me
 
-My research interests focus on:
-
-- Acceleration of MLLM systems
-- Reinforcement learning for large language models
+I am a senior undergraduate student in Psychology, Zhejiang University, and will soon pursue a direct Ph.D. at the University of Chinese Academy of Sciences. My research focuses on Engineering Psychology and Cognitive Psychology, investigating human cognition and behavior to optimize human-system interactions.
